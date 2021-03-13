@@ -24,8 +24,8 @@
 ---
 
 ### How to contact me:
-- Professional updates on ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justingeiman/)
+- Professional updates on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justingeiman/)](https://www.linkedin.com/in/justingeiman/)
 
-- Tweeting about random interests on ![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/justingeiman)
+- Tweeting about random interests on [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/justingeiman)](https://twitter.com/justingeiman)
 
-- One day, my personal website will be setup at <a href="https://justingeiman.com">JustinGeiman.com</a>
+- If all else fails, email me at jgeiman@fireriskalliance.com
